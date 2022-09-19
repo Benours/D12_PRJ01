@@ -1,0 +1,7 @@
+{
+  "name": "D12_PRJ01",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}
